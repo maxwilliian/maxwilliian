@@ -2,6 +2,6 @@
 
 
 - 🪙 Hoje estudo Análise de Desenvolvimento de Sistemas
-- 🪙 Futuro Front and
+
 
 
